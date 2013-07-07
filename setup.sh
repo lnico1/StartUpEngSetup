@@ -44,3 +44,7 @@ ln -sf dotfiles/.emacs.d .
 # Install Screen
 cd $HOME
 wget  raw.github.com/startup-class/dotfiles/master/.screenrc  -O  .screenrc
+
+# HW3c
+npm install cheerio
+npm install commander
